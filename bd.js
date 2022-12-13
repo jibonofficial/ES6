@@ -1,3 +1,1 @@
-import {laptop} from ".\Module\china.js"
-
-console.log(laptop);
+import { laptop } from "./china";

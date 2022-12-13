@@ -1,3 +1,2 @@
-const laptop="Asus Laptop, HP Laptop"
-
+const laptop="Asus Laptop, HP Laptop";
 export {laptop};
