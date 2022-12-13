@@ -1,2 +1,7 @@
-const laptop="Asus Laptop, HP Laptop";
-export {laptop};
+class China{
+    Toys(){
+        alert("Toys Imported From China");
+    }
+}
+
+export default China;
